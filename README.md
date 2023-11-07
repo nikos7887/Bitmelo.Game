@@ -1,2 +1,2 @@
 # Bitmelo.Game
-[https://htmlpreview.github.io/?https://github.com/nikos7887/Bitmelo.Game/blob/main/index.html] (Test)
+[https://htmlpreview.github.io/?https://github.com/nikos7887/Bitmelo.Game/blob/main/index.html] 
